@@ -27,9 +27,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\IFUSI\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5d0ad87b-dae0-4386-b819-9db448fed7c5" name="Default Changelist" comment="" />
@@ -37,11 +41,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596284036743</updated>
-      <workItem from="1596284037858" duration="16000" />
+      <workItem from="1596284037858" duration="1187000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="344" key="SettingsEditor" timestamp="1596284719240">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="250" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1596284719240" />
   </component>
 </project>
